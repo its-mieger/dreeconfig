@@ -1,0 +1,9 @@
+paypal:
+  api: false
+  classic:
+    shop=1, lang=de)*:
+      username: paypal@tecedo.de
+      password{crypt}: password
+    shop=2):
+      username: paypal2@tecedo.de
+      password{crypt}: password2
